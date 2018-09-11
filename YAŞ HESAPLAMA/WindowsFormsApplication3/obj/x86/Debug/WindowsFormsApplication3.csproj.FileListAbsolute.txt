@@ -1,0 +1,24 @@
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\PROJELERİM\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELERİM\YAŞ HESAPLAMA\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
